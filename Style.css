@@ -1,0 +1,42 @@
+#header1 {background-color: black; font-family: sans-serif;}
+#header2 {background-color: purple; color: white; text-align: center; font-family: sans-serif}
+#header3 {background-color: lightblue; color: purple; text-align: right; text-decoration: underline; font-family: sans-serif;}
+
+#box1 
+{
+    background-color: white;
+    color: green;
+    text-align: center;
+    height: 25px;
+    width: 150px;
+    border: 1px solid green;
+    border-radius: 100px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 5px;
+    margin: 40px;
+}
+#box2
+{
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 35px;
+    width: 35px;
+    border-radius: 50px;
+    margin: 40px;
+}
+#box3
+{
+    background-color: blue;
+    padding-top: 7.5px;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    text-align: center;
+    height: 25px;
+    width: 175px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 5px black;
+    margin: 40px;
+}
