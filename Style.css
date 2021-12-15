@@ -1,6 +1,10 @@
+/* This is for Styling */
 #header1 {background-color: black; font-family: sans-serif;}
 #header2 {background-color: purple; color: white; text-align: center; font-family: sans-serif}
 #header3 {background-color: lightblue; color: purple; text-align: right; text-decoration: underline; font-family: sans-serif;}
+
+
+/* This is for BottonUp */
 
 #box1 
 {
@@ -40,3 +44,49 @@
     box-shadow: 10px 10px 5px black;
     margin: 40px;
 }
+
+
+/* This is for Plotting Blocks */
+
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    overflow: hidden;
+    height: auto;
+}
+.top-nav {
+    height: 150px;
+    background-color: green;
+    margin-top: 10px;
+    margin: 25px;
+}
+.side-nav {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    margin: 10px;
+}
+.main {
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    float: right;
+    margin: 10px;
+}
+.sub-content {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    float: right;
+    margin: 10px;
+}
+#advertisement {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin-top: 250px;
+    margin-left: 20px;
+}
+
