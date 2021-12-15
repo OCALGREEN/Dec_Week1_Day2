@@ -37,3 +37,38 @@
     display: flex;
 }
 
+.first-bar {
+    height: 150px;
+    background-color: lightblue;
+    margin: 20px;
+}
+
+.second-bar {
+    height: 150px;
+    background-color: lightpink;
+    margin: 20px;
+}
+
+.third-bar {
+    height: 150px;
+    background-color: white;
+    margin: 20px;
+}
+
+.fourth-bar {
+    height: 150px;
+    background-color: white;
+    margin: 20px;
+    color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+
+#cat {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
